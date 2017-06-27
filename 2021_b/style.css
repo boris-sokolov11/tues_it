@@ -1,0 +1,19 @@
+.lqvo {
+	float:left;
+	clear:both;
+}
+			
+#zaglavie {
+	text-align:center;
+	font-size:70px;
+	font-style:italic;
+}
+		
+.snimka {
+	height:355px;
+	width:50%;
+}
+.text {
+	font-size:40px;
+	font-style:italic;
+}
